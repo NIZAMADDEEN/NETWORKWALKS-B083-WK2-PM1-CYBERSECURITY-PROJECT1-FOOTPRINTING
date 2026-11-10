@@ -15,7 +15,7 @@ Building practical cybersecurity skills through information gathering, DNS analy
 ![Tools](https://img.shields.io/badge/Tools-6%20Kali%20Tools-238F89?style=flat-square)
 ![NetworkWalks](https://img.shields.io/badge/NetworkWalks-Cybersecurity-C00000?style=flat-square)
 
-**Author: Nizamaddeen Umar | Cybersecurity Professional B083**
+**Author: Nizamaddeen Umar | CCNA**
 
 </div>
 
